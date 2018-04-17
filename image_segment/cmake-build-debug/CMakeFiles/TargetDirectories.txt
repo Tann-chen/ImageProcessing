@@ -1,3 +1,0 @@
-/Users/t.e.chen/Documents/Repo/ImageProcessing/image_segment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/t.e.chen/Documents/Repo/ImageProcessing/image_segment/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/t.e.chen/Documents/Repo/ImageProcessing/image_segment/cmake-build-debug/CMakeFiles/seg.dir

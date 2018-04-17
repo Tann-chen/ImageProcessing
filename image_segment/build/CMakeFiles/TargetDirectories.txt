@@ -1,3 +1,0 @@
-/Users/t.e.chen/desktop/code/build/CMakeFiles/rebuild_cache.dir
-/Users/t.e.chen/desktop/code/build/CMakeFiles/edit_cache.dir
-/Users/t.e.chen/desktop/code/build/CMakeFiles/seg.dir
